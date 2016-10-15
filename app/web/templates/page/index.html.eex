@@ -1,3 +1,4 @@
 <div class="jumbotron">
   <h2>Welcome</h2>
+  <h3><%= subtitle %></h3>
 </div>
